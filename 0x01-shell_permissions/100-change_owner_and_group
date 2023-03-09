@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -C vincent:staff .
+sudo chown --referenc=RFILE vincent:staff .
