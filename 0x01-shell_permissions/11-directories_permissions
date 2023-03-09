@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755 /tmp/h
+chmod a+X
